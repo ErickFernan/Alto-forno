@@ -1,0 +1,27 @@
+D:\Projetos\C#\Trabalho 2 - ELT 435\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.csprojAssemblyReference.cache
+D:\Projetos\C#\Trabalho 2 - ELT 435\Trabalho 2 - ELT 435\obj\Debug\Trabalho_2___ELT_435.Form1.resources
+D:\Projetos\C#\Trabalho 2 - ELT 435\Trabalho 2 - ELT 435\obj\Debug\Trabalho_2___ELT_435.Properties.Resources.resources
+D:\Projetos\C#\Trabalho 2 - ELT 435\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.csproj.GenerateResource.cache
+D:\Projetos\C#\Trabalho 2 - ELT 435\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Trabalho 2 - ELT 435\Trabalho 2 - ELT 435\bin\Debug\Trabalho 2 - ELT 435.exe
+D:\Projetos\C#\Trabalho 2 - ELT 435\Trabalho 2 - ELT 435\bin\Debug\Trabalho 2 - ELT 435.pdb
+D:\Projetos\C#\Trabalho 2 - ELT 435\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.exe
+D:\Projetos\C#\Trabalho 2 - ELT 435\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.pdb
+D:\Projetos\C#\Trabalho 2 - ELT 435 - Copia\Trabalho 2 - ELT 435\bin\Debug\Trabalho 2 - ELT 435.exe
+D:\Projetos\C#\Trabalho 2 - ELT 435 - Copia\Trabalho 2 - ELT 435\bin\Debug\Trabalho 2 - ELT 435.pdb
+D:\Projetos\C#\Trabalho 2 - ELT 435 - Copia\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.csprojAssemblyReference.cache
+D:\Projetos\C#\Trabalho 2 - ELT 435 - Copia\Trabalho 2 - ELT 435\obj\Debug\Trabalho_2___ELT_435.Form1.resources
+D:\Projetos\C#\Trabalho 2 - ELT 435 - Copia\Trabalho 2 - ELT 435\obj\Debug\Trabalho_2___ELT_435.Properties.Resources.resources
+D:\Projetos\C#\Trabalho 2 - ELT 435 - Copia\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.csproj.GenerateResource.cache
+D:\Projetos\C#\Trabalho 2 - ELT 435 - Copia\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Trabalho 2 - ELT 435 - Copia\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.exe
+D:\Projetos\C#\Trabalho 2 - ELT 435 - Copia\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.pdb
+D:\Projetos\C#\Trabalho 2 - ELT 435 antes de thread\Trabalho 2 - ELT 435\bin\Debug\Trabalho 2 - ELT 435.exe
+D:\Projetos\C#\Trabalho 2 - ELT 435 antes de thread\Trabalho 2 - ELT 435\bin\Debug\Trabalho 2 - ELT 435.pdb
+D:\Projetos\C#\Trabalho 2 - ELT 435 antes de thread\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.csproj.AssemblyReference.cache
+D:\Projetos\C#\Trabalho 2 - ELT 435 antes de thread\Trabalho 2 - ELT 435\obj\Debug\Trabalho_2___ELT_435.Form1.resources
+D:\Projetos\C#\Trabalho 2 - ELT 435 antes de thread\Trabalho 2 - ELT 435\obj\Debug\Trabalho_2___ELT_435.Properties.Resources.resources
+D:\Projetos\C#\Trabalho 2 - ELT 435 antes de thread\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.csproj.GenerateResource.cache
+D:\Projetos\C#\Trabalho 2 - ELT 435 antes de thread\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Trabalho 2 - ELT 435 antes de thread\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.exe
+D:\Projetos\C#\Trabalho 2 - ELT 435 antes de thread\Trabalho 2 - ELT 435\obj\Debug\Trabalho 2 - ELT 435.pdb

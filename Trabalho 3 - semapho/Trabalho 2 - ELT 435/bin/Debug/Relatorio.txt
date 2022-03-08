@@ -1,0 +1,12 @@
+Carrinho 001 Início: 14:48:05; Tempo: 31,039 segundos
+Carrinho 002 Início: 14:48:07; Tempo: 31,035 segundos
+Carrinho 003 Início: 14:48:08; Tempo: 31,219 segundos
+Carrinho 004 Início: 14:48:09; Tempo: 31,672 segundos
+Carrinho 005 Início: 14:48:11; Tempo: 32,520 segundos
+Carrinho 006 Início: 14:48:12; Tempo: 32,065 segundos
+Carrinho 007 Início: 14:48:14; Tempo: 32,712 segundos
+Carrinho 008 Início: 14:48:15; Tempo: 32,018 segundos
+Carrinho 009 Início: 14:48:17; Tempo: 32,823 segundos
+Carrinho 010 Início: 14:48:18; Tempo: 32,504 segundos
+Carrinho 011 Início: 14:48:19; Tempo: 33,109 segundos
+Carrinho 012 Início: 14:48:21; Tempo: 32,716 segundos
