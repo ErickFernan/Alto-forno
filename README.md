@@ -31,7 +31,7 @@ organização mas sim seu funcionamento.
   de carrinhos a serem usadas era grande de mais e a vista "por cima" fazia mais sentido.
   
   Nesta etapa, também, foi adicionado o conceito de programação não linear usando threads, onde cada carrinho tinha seu próprio processo e armazenava suas próprias informações.
-  Ou seja ao gerar um novo carrinho uma thread era iniciada e quando o carrinho fazia sua entrega para o reservatório a mesma morria em sequência.
+  Ou seja, ao gerar um novo carrinho uma thread era iniciada e quando o carrinho fazia sua entrega para o reservatório a mesma morria em sequência.
 </p>
 
 
@@ -45,7 +45,7 @@ organização mas sim seu funcionamento.
   Nesta parte foram adicionados mais alguns comandos, como o modo automático e manual na saída dos carrinhos, além da criação de um relatório que é salvo tanto em txt como 
   acessível usando TCP cliente e servidor.
   Além disso foi adicionado um trajeto para os dejetos do alto-forno, esse trajeto possui um cruzamento com a trilha principal, desta forma foi implementado um zona com "vagas limitadas"
-  para as threads no cruzamento, onde utilizando a função mutex ou a semaphore podemos decidir quantas threads seram processadas naquele momento. 
+  para as threads no cruzamento, onde utilizando a função mutex ou a semaphore podemos decidir quantas threads serão processadas naquele momento. 
   
   Desta forma ao chegar no cruzamento
   as trilhas verificam as vagas, caso não haja vaga a thread fica esperando até uma surgir, uma nova vaga surge quando um carrinho sai da área de cruzamento, neste momento o próximo
