@@ -1,8 +1,8 @@
 # Alto-forno
 
 <p align="justify"> 
-  Este projeto foi desenvolvido para a disciplina de Automação em tempo real. Foi um projeto bastante desafiador pois a linguagem exigida era C# e nenhum estudante da disciplina
-havia tido contato com a linguagem, então foi preciso aprender a linguagem ao mesmo tempo que cumpriamos os pedidos do professor. Dito isto o forte deste projeto não é a 
+  Este projeto foi desenvolvido para a disciplina de Automação em Tempo Real. Foi um projeto bastante desafiador pois a linguagem exigida era C# e nenhum estudante da disciplina
+havia tido contato com a linguagem, então foi preciso aprender a linguagem ao mesmo tempo que cumpriamos os pedidos do professor. Dito isso, o forte deste projeto não é a 
 organização mas sim seu funcionamento.
 
   O projeto foi realizado em três etapas, sendo elas:
@@ -27,9 +27,11 @@ organização mas sim seu funcionamento.
 <p align="justify"> 
   A segunda etapa foi um aperfeiçoamento da primeira, nela deveriamos construir uma estrada onde o carrinho levaria o produto a ser processado por uma distancia de 500 px com 
   uma velocidade de 5 px/s e deveriam ser adicionados alguns botões para comando. Nesta etapa já dominei a criação de figuras via código, dessa maneira refiz o design
-  do alto-forno e desenhei um carrinho animado utiliando trigonometria para fazer a movimentação das rodas. Infelizmente tive retirar a animação no projeto final, pois a quantidade
+  do alto-forno e desenhei um carrinho animado utiliando trigonometria para fazer a movimentação das rodas. Infelizmente, tive retirar a animação no projeto final, pois a quantidade
   de carrinhos a serem usadas era grande de mais e a vista "por cima" fazia mais sentido.
+</p> 
   
+<p align="justify">  
   Nesta etapa, também, foi adicionado o conceito de programação não linear usando threads, onde cada carrinho tinha seu próprio processo e armazenava suas próprias informações.
   Ou seja, ao gerar um novo carrinho uma thread era iniciada e quando o carrinho fazia sua entrega para o reservatório a mesma morria em sequência.
 </p>
@@ -44,19 +46,21 @@ organização mas sim seu funcionamento.
 <p align="justify"> 
   Nesta parte foram adicionados mais alguns comandos, como o modo automático e manual na saída dos carrinhos, além da criação de um relatório que é salvo tanto em txt como 
   acessível usando TCP cliente e servidor.
-  Além disso foi adicionado um trajeto para os dejetos do alto-forno, esse trajeto possui um cruzamento com a trilha principal, desta forma foi implementado um zona com "vagas limitadas"
-  para as threads no cruzamento, onde utilizando a função mutex ou a semaphore podemos decidir quantas threads serão processadas naquele momento. 
+  Além disso foi adicionado um trajeto para os dejetos do alto-forno, esse trajeto possui um cruzamento com a trilha principal, desta forma foi implementado um zona com "vagas limitadas" para as threads no cruzamento, onde utilizando a função mutex ou a semaphore podemos decidir quantas threads serão processadas naquele momento. 
+</p>
   
+<p align="justify">  
   Desta forma ao chegar no cruzamento
-  as trilhas verificam as vagas, caso não haja vaga a thread fica esperando até uma surgir, uma nova vaga surge quando um carrinho sai da área de cruzamento, neste momento o próximo
+  as trilhas verificam as vagas, caso não haja vaga a thread fica esperando até uma surgir, uma nova vaga surge quando um carrinho sair da área de cruzamento, neste momento o próximo
   carrinho/thread da fila entra na vaga para completar seu percursso.
-  
-  No relatório é salvo o nome do carrinho, sua hora de inicio e o tempo gasto para completar o trajeto.
-  
-  Para um explicação mais detalhada [clique aqui](https://drive.google.com/drive/u/3/folders/1X1IT0A4PJ_PmLZ6IfgoLLwXkTIyAUpE-). Esse link contém minha apresentação final da disciplina.
-  
+
 </p>
 
+  No relatório é salvo o nome do carrinho, sua hora de início e o tempo gasto para completar o trajeto.
+  
+
+  Para um explicação mais detalhada [clique aqui](https://drive.google.com/drive/u/3/folders/1X1IT0A4PJ_PmLZ6IfgoLLwXkTIyAUpE-). Esse link contém minha apresentação final da disciplina.
+  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96123177/157297496-0e6a433f-95c3-47b1-b4c9-1063df5b7d27.png?raw=true" alt="Sublime's custom image"/>
