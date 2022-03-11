@@ -27,7 +27,7 @@ organização mas sim seu funcionamento.
 <p align="justify"> 
   A segunda etapa foi um aperfeiçoamento da primeira, nela deveriamos construir uma estrada onde o carrinho levaria o produto a ser processado por uma distancia de 500 px com 
   uma velocidade de 5 px/s e deveriam ser adicionados alguns botões para comando. Nesta etapa já dominei a criação de figuras via código, dessa maneira refiz o design
-  do alto-forno e desenhei um carrinho animado utiliando trigonometria para fazer a movimentação das rodas. Infelizmente, tive retirar a animação no projeto final, pois a quantidade
+  do alto-forno e desenhei um carrinho animado utilizando trigonometria para fazer a movimentação das rodas. Infelizmente, tive retirar a animação no projeto final, pois a quantidade
   de carrinhos a serem usadas era grande de mais e a vista "por cima" fazia mais sentido.
 </p> 
   
