@@ -1,3 +1,13 @@
+> 🚀 **Jornada do Projeto: O Ponto de Partida**
+>
+> Bem-vindo(a) à primeira etapa deste projeto! Este repositório documenta a criação do **simulador desktop em C#**, que é o coração e a fundação do meu Trabalho de Conclusão de Curso (TCC).
+>
+> Aqui, você encontrará os detalhes da implementação da programação concorrente e da lógica da simulação. Para uma compreensão completa da evolução e dos desafios técnicos, recomendo ler a descrição das etapas abaixo.
+>
+> A jornada continua e é concluída no repositório final, que adiciona todo o módulo web:
+>
+> **[➡️ Ver a Versão Final e a Integração com Django (TCC)](https://github.com/ErickFernan/TCC_AltoForno_Django)**
+---
 # Alto-forno
 
 <p align="justify"> 
@@ -68,3 +78,9 @@ organização mas sim seu funcionamento.
 
 
 Em caso de duvida, fique a vontade para entrar em contato.
+
+---
+## 🔗 Repositórios Relacionados
+
+- **Versão anterior do projeto** (este repositório): [https://github.com/ErickFernan/Alto-forno](https://github.com/ErickFernan/Alto-forno)
+- **Versão final do TCC** (projeto evoluído): [https://github.com/ErickFernan/TCC_AltoForno_Django](https://github.com/ErickFernan/TCC_AltoForno_Django)
